@@ -1,0 +1,6 @@
+{
+  "name": "WarrantyVault",
+  "description": "Personal purchase, warranty, and repair management system. Never lose a warranty again with offline-first local storage, digital receipts, and expiry reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

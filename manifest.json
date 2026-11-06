@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "WarrantyVault — Purchase & Warranty Manager",
+  "short_name": "WarrantyVault",
+  "description": "Never Lose a Warranty Again. Organize products, store receipts, track warranties & repairs offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0b0f19",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
